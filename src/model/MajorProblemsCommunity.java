@@ -1,0 +1,7 @@
+package model;
+
+public enum MajorProblemsCommunity {
+
+	HOSPITAL_ABSENCE, SCHOOL_ABSENCE, POTABLE_WATER_ABSENCE, BASIC_ALIMENTS_ABSENCE;
+
+}
